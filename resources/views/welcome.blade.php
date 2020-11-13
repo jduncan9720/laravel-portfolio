@@ -12,6 +12,9 @@
 <div class = "container bg-dark text-white">
     Testing Bootstrap
 </div>
+<div id="test">
+    <h1>Testing other css</h1>
+</div>
 <script type="text/javascript" src="/js/app.js"> </script>
 </body>
 </html>
