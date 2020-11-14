@@ -504,7 +504,7 @@ eval("window._ = __webpack_require__(/*! lodash */ \"./node_modules/lodash/lodas
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("alert(\"working\");//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9yZXNvdXJjZXMvanMvaW5kZXguanM/OWE1NyJdLCJuYW1lcyI6WyJhbGVydCJdLCJtYXBwaW5ncyI6IkFBQUFBLEtBQUssQ0FBQyxTQUFELENBQUwiLCJmaWxlIjoiLi9yZXNvdXJjZXMvanMvaW5kZXguanMuanMiLCJzb3VyY2VzQ29udGVudCI6WyJhbGVydChcIndvcmtpbmdcIilcbiJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./resources/js/index.js\n");
+eval("//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiIuL3Jlc291cmNlcy9qcy9pbmRleC5qcy5qcyIsInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./resources/js/index.js\n");
 
 /***/ }),
 

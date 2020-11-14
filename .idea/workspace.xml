@@ -20,19 +20,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2752dd9-30a3-4678-b40f-6d7fe24861dc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/images/bgimage3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/about.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/contact.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/landing.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/layouts/master.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/resources/css/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/css/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/home.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sass/home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/home.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -160,10 +166,13 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/views/layouts" />
+      <recent name="$PROJECT_DIR$/public/images" />
       <recent name="$PROJECT_DIR$/resources/css" />
       <recent name="$PROJECT_DIR$/public/js" />
     </key>
@@ -182,7 +191,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605305714941</updated>
-      <workItem from="1605305717470" duration="4696000" />
+      <workItem from="1605305717470" duration="4937000" />
+      <workItem from="1605312826450" duration="3841000" />
     </task>
     <servers />
   </component>
@@ -199,5 +209,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="477" y="119" key="SettingsEditor" timestamp="1605315567789">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="477" y="119" key="SettingsEditor/1920.23.1920.1057/-1680.23.1680.1027/0.23.1920.1057@0.23.1920.1057" timestamp="1605315567789" />
   </component>
 </project>
